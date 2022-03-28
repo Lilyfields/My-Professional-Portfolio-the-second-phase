@@ -2,9 +2,9 @@
 
 ## My Journey and Development
 
-Building my first website. So exciting!!!
+Upgrading my first website to make it more functional and responsive. Using the knowledge I have gained from learing JavaScript, jQuery, and API. 
 
-At this stage of my development, I've learnt to use HTML and CSS to design the layout and features of my profile.
+
 
 ## Concept of the design and function
 
@@ -22,34 +22,6 @@ WHEN at the confirmation webpage, the person can click where indicated
 THEN they will return to the main page of my profile
 ```
 
-## My Final Outcome
+## Work in Progress
 
-
-## Images for My Profile 
-
-<image src="https://user-images.githubusercontent.com/94832331/160284838-85ad3728-45a1-43c2-b738-a0e841225d75.png" width=500 height=250> 
-  
- <image src="https://user-images.githubusercontent.com/94832331/160284987-9558a1b2-1a16-4c88-ad6b-e9456e23fa01.png" width=500 height=250>
-
-
-## Key Features
-
-* HTML
-* CSS
-* Responsive.
-* Interactive (i.e., accept and respond to user input).
-  
-
-## Application Quality
-
-* Application experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-  
-
-
-## Future Development
-
-- Upcoming project: My Portfolio update
-- Upgrade the functions on My Portfolio
-- Update some of the designs and features to suit upgrade
+<image src="https://image.shutterstock.com/z/stock-photo-hand-putting-wooden-cube-on-virtual-infographic-rectangle-block-with-progress-wording-job-1735505120.jpg" width= 1000  height=1000>

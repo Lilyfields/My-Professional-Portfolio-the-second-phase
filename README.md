@@ -1,4 +1,4 @@
-## My Professional Portfolio: the initial phase
+## My Professional Portfolio: the second phase
 
 ## My Journey and Development
 
